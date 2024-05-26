@@ -1,0 +1,139 @@
+E:\6th Semester\OOP2\Final Term\PROJECT\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.exe.config
+E:\6th Semester\OOP2\Final Term\PROJECT\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.exe
+E:\6th Semester\OOP2\Final Term\PROJECT\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.pdb
+E:\6th Semester\OOP2\Final Term\PROJECT\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.AssemblyReference.cache
+E:\6th Semester\OOP2\Final Term\PROJECT\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Form1.resources
+E:\6th Semester\OOP2\Final Term\PROJECT\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Properties.Resources.resources
+E:\6th Semester\OOP2\Final Term\PROJECT\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.GenerateResource.cache
+E:\6th Semester\OOP2\Final Term\PROJECT\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.CoreCompileInputs.cache
+E:\6th Semester\OOP2\Final Term\PROJECT\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.exe
+E:\6th Semester\OOP2\Final Term\PROJECT\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.pdb
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.exe.config
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.exe
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.pdb
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.AssemblyReference.cache
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AboutUsForm.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminHomeForm.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.LogIn.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Properties.Resources.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Registration.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.GenerateResource.cache
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.CoreCompileInputs.cache
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.exe
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.pdb
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerHome.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategory.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryCow.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryGoat.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryMilk.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerMyCart.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerHome.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProduct.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductCow.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductGoat.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductMilk.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Home.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Shared.Loading.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerHome.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerHome.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerList.resources
+E:\6th Semester\COMPUTER GRAPHICS [H]\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Shared.Hotline.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.exe.config
+E:\Projects\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.exe
+E:\Projects\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.pdb
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.AssemblyReference.cache
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AboutUsForm.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategory.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryCow.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryGoat.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryMilk.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerHome.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerMyCart.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerHome.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Home.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Shared.Hotline.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Shared.Loading.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.LogIn.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerHome.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProduct.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductCow.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductGoat.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductMilk.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerHome.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Properties.Resources.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Registration.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.GenerateResource.cache
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.CoreCompileInputs.cache
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.exe
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.pdb
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.AdminList.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.ManagerList.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.Transaction.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminHome.resources
+E:\Projects\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.CustomerList.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.exe.config
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.exe
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.pdb
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.AdminList.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.CustomerList.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.ManagerList.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.Transaction.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AboutUsForm.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminHome.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategory.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryCow.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryGoat.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryMilk.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerHome.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerMyCart.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerHome.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Home.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Shared.Hotline.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Shared.Loading.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.LogIn.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerHome.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProduct.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductCow.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductGoat.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductMilk.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerHome.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Properties.Resources.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Registration.resources
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.exe
+C:\Users\Asus\Downloads\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.pdb
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.exe.config
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.exe
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\bin\Debug\FreshDairyFarm.pdb
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.AdminList.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.CustomerList.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.ManagerList.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminControls.Transaction.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AboutUsForm.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.AdminHome.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategory.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryCow.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryGoat.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerCategoryMilk.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerHome.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerControls.CustomerMyCart.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.CustomerHome.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Home.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Shared.Hotline.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Shared.Loading.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.LogIn.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerHome.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProduct.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductCow.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductGoat.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerControls.ManagerProductMilk.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.ManagerHome.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Properties.Resources.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.Registration.resources
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.exe
+C:\Users\Asus\Desktop\FreshDairyFarm\FreshDairyFarm\obj\Debug\FreshDairyFarm.pdb

@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{623FB7D4-A650-4493-ADF3-290E4449C73D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FreshDairyFarm</RootNamespace>
+    <AssemblyName>FreshDairyFarm</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminControls\AdminList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminControls\AdminList.Designer.cs">
+      <DependentUpon>AdminList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminControls\CustomerList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminControls\CustomerList.Designer.cs">
+      <DependentUpon>CustomerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminControls\ManagerList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminControls\ManagerList.Designer.cs">
+      <DependentUpon>ManagerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminControls\Transaction.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminControls\Transaction.Designer.cs">
+      <DependentUpon>Transaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\AboutUsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shared\AboutUsForm.Designer.cs">
+      <DependentUpon>AboutUsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePages\AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePages\AdminHome.Designer.cs">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerCategory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerCategory.Designer.cs">
+      <DependentUpon>CustomerCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerCategoryCow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerCategoryCow.Designer.cs">
+      <DependentUpon>CustomerCategoryCow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerCategoryGoat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerCategoryGoat.Designer.cs">
+      <DependentUpon>CustomerCategoryGoat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerCategoryMilk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerCategoryMilk.Designer.cs">
+      <DependentUpon>CustomerCategoryMilk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerHome.Designer.cs">
+      <DependentUpon>CustomerHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerMyCart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CustomerControls\CustomerMyCart.Designer.cs">
+      <DependentUpon>CustomerMyCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePages\CustomerHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePages\CustomerHome.Designer.cs">
+      <DependentUpon>CustomerHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePages\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePages\.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shared\Hotline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shared\Hotline.Designer.cs">
+      <DependentUpon>Hotline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shared\Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shared\LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerControls\ManagerHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManagerControls\ManagerHome.Designer.cs">
+      <DependentUpon>ManagerHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerControls\ManagerProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManagerControls\ManagerProduct.Designer.cs">
+      <DependentUpon>ManagerProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerControls\ManagerProductCow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManagerControls\ManagerProductCow.Designer.cs">
+      <DependentUpon>ManagerProductCow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerControls\ManagerProductGoat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManagerControls\ManagerProductGoat.Designer.cs">
+      <DependentUpon>ManagerProductGoat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerControls\ManagerProductMilk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManagerControls\ManagerProductMilk.Designer.cs">
+      <DependentUpon>ManagerProductMilk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePages\ManagerHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePages\ManagerHome.Designer.cs">
+      <DependentUpon>ManagerHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shared\Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminControls\AdminList.resx">
+      <DependentUpon>AdminList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminControls\CustomerList.resx">
+      <DependentUpon>CustomerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminControls\ManagerList.resx">
+      <DependentUpon>ManagerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminControls\Transaction.resx">
+      <DependentUpon>Transaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shared\AboutUsForm.resx">
+      <DependentUpon>AboutUsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePages\AdminHome.resx">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerControls\CustomerCategory.resx">
+      <DependentUpon>CustomerCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerControls\CustomerCategoryCow.resx">
+      <DependentUpon>CustomerCategoryCow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerControls\CustomerCategoryGoat.resx">
+      <DependentUpon>CustomerCategoryGoat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerControls\CustomerCategoryMilk.resx">
+      <DependentUpon>CustomerCategoryMilk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerControls\CustomerHome.resx">
+      <DependentUpon>CustomerHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerControls\CustomerMyCart.resx">
+      <DependentUpon>CustomerMyCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePages\CustomerHome.resx">
+      <DependentUpon>CustomerHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePages\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shared\Hotline.resx">
+      <DependentUpon>Hotline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shared\Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shared\LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerControls\ManagerHome.resx">
+      <DependentUpon>ManagerHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerControls\ManagerProduct.resx">
+      <DependentUpon>ManagerProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerControls\ManagerProductCow.resx">
+      <DependentUpon>ManagerProductCow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerControls\ManagerProductGoat.resx">
+      <DependentUpon>ManagerProductGoat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerControls\ManagerProductMilk.resx">
+      <DependentUpon>ManagerProductMilk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePages\ManagerHome.resx">
+      <DependentUpon>ManagerHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shared\Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Login-PNG-Royalty-Free-High-Quality.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\client-login-icon-4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Sign-Up-Button-PNG-Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\c0049557-800px-wm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\homeIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\no_image_avaiable.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
